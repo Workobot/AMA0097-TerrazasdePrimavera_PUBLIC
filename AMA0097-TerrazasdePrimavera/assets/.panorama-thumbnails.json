@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "[\"TerrazasdePrimavera\",\"amenidades\",\"ComunalPrincipal\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "185d25c28e7158b04e68118425649d4ba5006e55a87fd8975464b3ad9de69a22",
+      "outputSize": 197296,
+      "outputMtime": 1795734834216.9163
+    },
+    "[\"TerrazasdePrimavera\",\"amenidades\",\"Fogatas\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "8954a0f46ed22e9b4fffc884395fe7a0f6084012c0bdfdbd46b041c3cb7d164c",
+      "outputSize": 206982,
+      "outputMtime": 1795734834706.966
+    },
+    "[\"TerrazasdePrimavera\",\"amenidades\",\"ZonaFitness\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "d3d60091e1275cef1d6b42171854f2974e00ceb2a2c5059f874893c3c87c7c3c",
+      "outputSize": 232079,
+      "outputMtime": 1795734835224.5417
+    }
+  }
+}
